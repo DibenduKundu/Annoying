@@ -15,4 +15,4 @@ current_str=""
 
 for letter in my_string:
     print_string(current_str, letter)
-    current_str+=letter
+    current_str+=letter #test
